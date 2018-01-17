@@ -1,0 +1,4 @@
+Debes cambiar el nombre de la carpeta añadiendo tu nombre en el lugar de la palabra "Alumno".
+Una vez finalizado el examen comprimes la carpeta en formato Zip y la subes al directorio compartido "Examen Realización Diciembre 17-18".
+El examen consta un único ejercicio.
+

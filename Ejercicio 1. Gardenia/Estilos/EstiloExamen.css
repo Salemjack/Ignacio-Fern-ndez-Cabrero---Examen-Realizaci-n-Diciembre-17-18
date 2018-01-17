@@ -1,0 +1,168 @@
+/* CSS Document */
+
+#Fondo{
+	background-repeat: no-repeat;
+	margin-left: auto;
+	margin-right: auto;
+	border: thin solid;
+	width: 630px;
+}
+body{
+	background-image: url(../Imagenes/Nubes.jpg);
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#Header{
+	display:-webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#Logo{
+	background-color:darkorange;
+	margin-left: 25px;
+	margin-top: 7.5px;
+	margin-bottom: 7.5px;
+	border-radius: 10px;
+	padding: 10px;
+	border: 2px solid green;
+	font-size: 15px;
+	font-family: 'Berkshire Swash', cursive;
+}
+#Arbol img{
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	width: 150px;
+	margin-top: 20px;
+}
+#Titulo{
+	margin-top: 50px;
+}
+#Barra{
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	background-color: dimgray;
+	width: 100%;
+	height: 40px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#Botones{
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: center;
+}
+#Botones li{
+	background-color:darkgray;
+	margin: 5px;
+	border-radius: 10px;
+	padding: 10px;
+	border: 1px solid black;
+	font-size: 15px;
+	cursor: pointer;
+	font-family: 'Berkshire Swash', cursive;
+}
+#Cuerpo{
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	width: 630px;
+	background-color: white;
+}
+#Centro{
+	
+}
+#Bloque{
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	flex-direction: row;
+	height: 120px;
+}
+#Bloque img{
+	margin-left: 35px;
+}
+#BarraIzq{
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	flex-direction: column;
+	background-color: lightblue;
+	height: 305px;
+}
+#BarraIzq img{
+	width: 50px;
+}
+#Historia{
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	flex-direction: column;
+	height: 120px;
+}
+#Libro img{
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	width: 100px;
+}
+#Boton p{
+	background-color:darkorange;
+	margin-left: 25px;
+	margin-top: 7.5px;
+	margin-bottom: 7.5px;
+	border-radius: 10px;
+	padding: 10px;
+	border: 2px solid green;
+	font-size: 15px;
+	font-family: 'Berkshire Swash', cursive;
+}
+#Ninos{
+	height: 120px;
+}
+#Ninos img{
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	width: 200px;
+}
+#Texto p{
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	flex-direction: row;
+	margin-top: 10px;
+	margin-left: 5px;
+}
+#Footer{
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	background-color: dimgray;
+	flex-direction: row;
+	justify-content: space-around;
+	width: 100%;
+	height: 60px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#Logos{
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content:flex-start;
+	width: 90%;
+	margin-top: 15px;
+}
